@@ -1,0 +1,4 @@
+repository "SeaWays@SuperProbie14@cloud"
+  path "/"
+    br "/main"
+    co "/main"
